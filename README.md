@@ -1,3 +1,3 @@
 # Python_qgis
 
-https://smartrs.uk/series/pyqgis-basics
+https://smartrs.hashnode.dev/series/pyqgis-basics
